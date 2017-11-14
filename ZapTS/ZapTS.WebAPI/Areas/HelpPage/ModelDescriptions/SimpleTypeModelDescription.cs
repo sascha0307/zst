@@ -1,0 +1,6 @@
+namespace ZapTS.WebAPI.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
